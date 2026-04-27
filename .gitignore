@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+*.pyproj
+*.sln
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.pytest_cache/
+
+# Переменные окружения
+.env
